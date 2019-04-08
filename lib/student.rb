@@ -1,4 +1,4 @@
-class Student < Chatty_student
+class Student 
   
   def hello
     puts "Ni Hao"
